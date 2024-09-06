@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Freelancer Web developer💻<br>🌱 I’m currently learning React.js, API's, PostgreSQL and some Cybersecurity🔥<br>💬 Ask me about anything you want 😎 <br> 📬 How to reach me : utkuebuzol@gmail.com 
+🔭 I’m currently working as a Freelancer Web developer💻<br>🌱 I’m currently learning React.js, API's, PostgreSQL and little bit Cybersecurity🔥<br>💬 Ask me about anything you want 😎 <br> 📬 How to reach me : utkuebuzol@gmail.com 
 
 
 ## 🌐 Socials:
