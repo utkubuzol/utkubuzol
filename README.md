@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Freelancer Web developer💻<br>🌱 I’m currently learning React.js, API's, PostgreSQL and little bit Cybersecurity🔥<br>💬 Ask me about anything you want 😎 <br> 📬 How to reach me : utkuebuzol@gmail.com 
+🔭 I’m currently working as a Computer Science Student @ SMC💻<br>🌱 I’m currently learning Machine Learning and building my own Fintech Startup🔥<br>💬 Ask me about anything you want 😎 <br> 📬 How to reach me : utkuebuzol@gmail.com 
 
 
 ## 🌐 Socials:
